@@ -1,7 +1,7 @@
 name: probalkozas
 favicon: null
-layout_spectrum: 0.552111150464043
-typography_spectrum: 0.6550223610829562
+layout_spectrum: 0.29664
+typography_spectrum: 0.82246
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#006183'
+    - '#030505'
+    - '#d3d5c7'
+    - '#a0979a'
+    - '#a23a0f'
   brandStrength: 0.05499341688118875
-  lightness: 0.6981635270640254
-  saturation: 0.6710738053079695
-  rhythmicContrast: 0.5171763473190367
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
